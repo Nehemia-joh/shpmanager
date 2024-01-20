@@ -1,0 +1,1 @@
+remember to change the server name,username,password,database as configured in dedicated machine
